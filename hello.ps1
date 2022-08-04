@@ -1,2 +1,2 @@
 param($name)
-Write-Host "Hello $name!"
+Write-Host "What's up $name!"
